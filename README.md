@@ -1,5 +1,5 @@
 ## Olá! Me chamo Luan Richards
-Sou Estudante de ADS, sou apaixonado por tecnologia e codigos, a linguagens que estou estudando são Pyhton,React, HTML, CSS, JSCRIPT!
+Sou Estudante de ADS, sou apaixonado por tecnologia e códigos, a linguagens que estou estudando são Pyhton,React, HTML, CSS, JSCRIPT!
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
